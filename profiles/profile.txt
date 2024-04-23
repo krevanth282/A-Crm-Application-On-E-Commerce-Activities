@@ -1,0 +1,23 @@
+Name of the student : v Thanusri
+Learing Track : Admin
+Project name : A-Crm-Application-On-E-Commerce-Activities
+Trailhead Profile : https://www.salesforce.com/trailblazer/thanusriveeraboyini0834
+Developer Org Username : Krevanth@2004.com
+Developer Org Password : Gayatri@123
+Position : Team Leader
+
+Name of the student : m sreesampada
+Learing Track : Admin
+Project name : A-Crm-Application-On-E-Commerce-Activities
+Trailhead Profile : https://www.salesforce.com/trailblazer/sreesampadamanchala
+Developer Org Username : msreesampada@project.com
+Developer Org Password : Gayatri@12271
+Position : Team Member
+
+Name of the student : m sreesada
+Learing Track : Admin
+Project name : A-Crm-Application-On-E-Commerce-Activities
+Trailhead Profile : https://www.salesforce.com/trailblazer/manchalasreesada
+Developer Org Username : sreesadashivamanchala@project.com
+Developer Org Password : Sreesada@2004
+Position : Team Member
